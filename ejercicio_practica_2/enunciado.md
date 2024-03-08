@@ -1,9 +1,10 @@
-# Ejercicio 2
+# Desafío
 
 Para esta tarea vamos a poner en práctica los conceptos de selectores de CSS y de display flex.
 
 Los pasos que debemos seguir para conseguir esta tarea, serán:
 
+- Haber realizado el fork de este repositorio y haberlo descargado a su computadora.
 - Generar el HTML pertinente para cada ejemplo
 - Generar el CSS pertinente para cada ejemplo
 - Tratar de replicar los ejemplos mostrados
@@ -16,6 +17,10 @@ Basado en lo visto en clase crear una barra de navegación estilada y con displa
 
 Ejemplo de lo que se requiere:
 
-![ejercicio_2](ejercicio_2.jpg)
+![resultado](resultado.jpg)
 
 Intente acercarse lo más posible. Recuerde crear los archivos necesarios(HTML & CSS) y vincular los archivos.
+
+
+# Desafio finalizado
+Verificado que todo funciona como se espera, deberá subir al campus el link de su respositorio en el desafio correspondiente para así concluir la realización del mismo.
